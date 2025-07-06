@@ -1,0 +1,23 @@
+# Unreal Engine
+*.pdb
+*.sdf
+*.opensdf
+*.log
+*.db
+*.obj
+*.exe
+*.dll
+*.app
+*.dylib
+*.icns
+*.target
+*.vcxproj*
+.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
